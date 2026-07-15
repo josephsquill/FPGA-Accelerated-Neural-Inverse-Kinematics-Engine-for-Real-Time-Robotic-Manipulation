@@ -34,5 +34,3 @@ The primary objective is to evaluate whether FPGA-based neural inference can pro
 ## Related Work
 
 Li, Y., Li, L., and Choset, H., *FPGA Acceleration for High-Dimensional Inverse Kinematics* (ShanghaiTech University / Carnegie Mellon University).
-
-This project extends prior FPGA-based inverse kinematics acceleration research by exploring neural-network inference as an alternative approach to conventional analytical and Jacobian-based inverse kinematics methods, with a particular focus on real-time robotic control applications.
